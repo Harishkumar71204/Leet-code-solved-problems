@@ -1,0 +1,10 @@
+class Solution:
+    def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
+        pair = [[p,s] for p,s in zip(position,speed)]
+        stk = []
+        for i,j in sorted(pair)[::-1]:
+            stk.append((target-i)/j)
+            if len(stk) >= 2 and stk[-1] <= stk[-2]:
+                stk.pop()
+        return len(stk)
+        
