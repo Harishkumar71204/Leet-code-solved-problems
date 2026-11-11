@@ -13,6 +13,7 @@ List of all the problems i solved on leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -34,11 +35,13 @@ List of all the problems i solved on leetcode
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -48,6 +51,7 @@ List of all the problems i solved on leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
