@@ -1,7 +1,14 @@
 class Solution:
     def findDuplicate(self, nums: list[int]) -> int:
-        s = set()
-        for i in nums:
-            if i in s:
-                return i
-            s.add(i)
+        s,f = 0,0
+        while True:
+            s = nums[s]
+            f = nums[nums[f]]
+            if s == f:
+                break
+        s2 = 0
+        while True :
+            s = nums[s]
+            s2 = nums[s2]
+            if s == s2:
+                return s
