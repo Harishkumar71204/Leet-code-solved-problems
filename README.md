@@ -7,6 +7,7 @@ List of all the problems i solved on leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0287-find-the-duplicate-number](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0853-car-fleet) |
 ## Stack
@@ -58,12 +59,26 @@ List of all the problems i solved on leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
