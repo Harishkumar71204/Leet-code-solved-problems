@@ -103,5 +103,6 @@ List of all the problems i solved on leetcode
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
