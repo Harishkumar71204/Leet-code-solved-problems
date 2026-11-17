@@ -72,6 +72,7 @@ List of all the problems i solved on leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,12 @@ List of all the problems i solved on leetcode
 | ------- |
 | [0584-find-customer-referee](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
