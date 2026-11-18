@@ -54,6 +54,7 @@ List of all the problems i solved on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -72,6 +73,7 @@ List of all the problems i solved on leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -116,4 +118,8 @@ List of all the problems i solved on leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
