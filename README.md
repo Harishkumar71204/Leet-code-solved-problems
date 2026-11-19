@@ -109,6 +109,7 @@ List of all the problems i solved on leetcode
 | [0584-find-customer-referee](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harishkumar71204/Leet-code-solved-problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
